@@ -22,7 +22,7 @@ D:\Practice\.Net Core\Microservices\ECommerce\ECommerce.Api.Orders\bin\Debug\net
 D:\Practice\.Net Core\Microservices\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\Practice\.Net Core\Microservices\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.CopyComplete
 D:\Practice\.Net Core\Microservices\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
-D:\Practice\.Net Core\Microservices\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.CoreCompileInputs.cache
-D:\Practice\.Net Core\Microservices\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.MvcApplicationPartsAssemblyInfo.cache
 D:\Practice\.Net Core\Microservices\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\Practice\.Net Core\Microservices\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Practice\.Net Core\Microservices\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.CoreCompileInputs.cache
+D:\Practice\.Net Core\Microservices\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.MvcApplicationPartsAssemblyInfo.cache

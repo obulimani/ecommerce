@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9OZd/nZryHkobE1WTwn5qdxLJt40vQMIWr437AA3fAqlf4vz1KEuWRQOyF/n5b8KEQNzD4mVWHAtOHsPek5OJQ==",
+  "dgSpecHash": "UKJOWW1ooYGqgOIAQLgk+MNHhYK0nkMQT3Ht0iPzLcQhsm5Z0dusXrVZ24deqx8Oxv9ES5Fs+FU1x0pU2CZV5g==",
   "success": true,
   "projectFilePath": "D:\\Practice\\.Net Core\\Microservices\\ECommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\obuli\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
     "C:\\Users\\obuli\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
     "C:\\Users\\obuli\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\obuli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\obuli\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
     "C:\\Users\\obuli\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512"
   ],

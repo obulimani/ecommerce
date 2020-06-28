@@ -1,0 +1,35 @@
+services:
+  ecommerce.api.customers:
+    build:
+      context: D:\Practice\.Net Core\Microservices\ECommerce
+      dockerfile: Ecommerce.Api.Customers\Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: Ecommerce.Api.Customers
+      target: base
+    container_name: Ecommerce.Api.Customers
+    entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus
+      /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646 /LogDebuggeeOutputToStdOut
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      DOTNET_USE_POLLING_FILE_WATCHER: '1'
+      NUGET_FALLBACK_PACKAGES: ''
+      NUGET_PACKAGES: C:\.nuget\packages
+    image: ecommerceapicustomers:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath c:\.nuget\packages  "C:\app\bin\Debug\netcoreapp3.1\Ecommerce.Api.Customers.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: C:\remote_debugger\x64\utils\KillProcess.exe
+        dotnet.exe
+      com.microsoft.visualstudio.debuggee.program: '"C:\Program Files\dotnet\dotnet.exe"'
+      com.microsoft.visualstudio.debuggee.workingdirectory: C:\app
+    ports:
+    - target: 80
+    volumes:
+    - C:\Users\obuli\AppData\Roaming\ASP.NET\Https:C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https:ro
+    - C:\Users\obuli\AppData\Roaming\Microsoft\UserSecrets:C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets:ro
+    - D:\Practice\.Net Core\Microservices\ECommerce\Ecommerce.Api.Customers:C:\app:rw
+    - C:\Users\obuli\onecoremsvsmon\16.6.0311.0:C:\remote_debugger:ro
+    - D:\Practice\.Net Core\Microservices\ECommerce:C:\src:rw
+    - C:\Users\obuli\.nuget\packages:c:\.nuget\packages:ro
+version: '3.4'

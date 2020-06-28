@@ -20,9 +20,9 @@ D:\Practice\.Net Core\Microservices\ECommerce\Ecommerce.Api.Products\bin\Debug\n
 D:\Practice\.Net Core\Microservices\ECommerce\Ecommerce.Api.Products\bin\Debug\netcoreapp3.1\Ecommerce.Api.Products.pdb
 D:\Practice\.Net Core\Microservices\ECommerce\Ecommerce.Api.Products\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\Practice\.Net Core\Microservices\ECommerce\Ecommerce.Api.Products\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\Practice\.Net Core\Microservices\ECommerce\Ecommerce.Api.Products\obj\Debug\netcoreapp3.1\Ecommerce.Api.Products.csproj.CoreCompileInputs.cache
-D:\Practice\.Net Core\Microservices\ECommerce\Ecommerce.Api.Products\obj\Debug\netcoreapp3.1\Ecommerce.Api.Products.MvcApplicationPartsAssemblyInfo.cache
 D:\Practice\.Net Core\Microservices\ECommerce\Ecommerce.Api.Products\obj\Debug\netcoreapp3.1\Ecommerce.Api.Products.dll
 D:\Practice\.Net Core\Microservices\ECommerce\Ecommerce.Api.Products\obj\Debug\netcoreapp3.1\Ecommerce.Api.Products.pdb
 D:\Practice\.Net Core\Microservices\ECommerce\Ecommerce.Api.Products\obj\Debug\netcoreapp3.1\Ecommerce.Api.Products.genruntimeconfig.cache
 D:\Practice\.Net Core\Microservices\ECommerce\Ecommerce.Api.Products\obj\Debug\netcoreapp3.1\Ecommerce.Api.Products.csprojAssemblyReference.cache
+D:\Practice\.Net Core\Microservices\ECommerce\Ecommerce.Api.Products\obj\Debug\netcoreapp3.1\Ecommerce.Api.Products.csproj.CoreCompileInputs.cache
+D:\Practice\.Net Core\Microservices\ECommerce\Ecommerce.Api.Products\obj\Debug\netcoreapp3.1\Ecommerce.Api.Products.MvcApplicationPartsAssemblyInfo.cache
